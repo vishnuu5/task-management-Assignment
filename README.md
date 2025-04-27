@@ -4,6 +4,8 @@ A full-stack task management application built with React, Node.js, Express, and
 
 Task Management App
 
+https://github.com/user-attachments/assets/1ae8fefc-31d3-4760-bb9e-de4e3467450f
+
 ## Features
 
 ### User Authentication
