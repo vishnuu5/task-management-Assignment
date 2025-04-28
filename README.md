@@ -122,7 +122,8 @@ npm run dev
 
 The application will be available at [http://localhost:3000](http://localhost:3000)
 
-```markdown project="Task Management Application" file="README.md"
+```bash
+markdown project="Task Management Application" file="README.md"
 ```
 
 2. **Install backend dependencies**
@@ -204,7 +205,8 @@ npm run dev
 1. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 1. Register a new account or use the seeded test accounts
 
-```markdown project="Task Management Application" file="README.md"
+```bash
+markdown project="Task Management Application" file="README.md"
 ```
 
 2. **Install backend dependencies**
